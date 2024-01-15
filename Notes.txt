@@ -1,0 +1,21 @@
+Type de simulation :
+
+Eulérienne
+Incompressible
+Sans viscosité
+
+
+Fonctionnalités à ajouter :
+
+Gravité
+Profil de vitesse constant mais de direction changeante, et pas forcément sur toute la longueur d'un côté
+Obstacles qui peuvent être ajoutés à la main
+Couleurs pour observer :
+-velocity field
+-pressure field
+- streamlines
+Déplacer un obstacle et voir le résultat in real time ?
+Ajouter la viscosité
+Smoke ??
+Smooth display (option)
+Aile d'avion à angle variable et autres objets prédéfinis
